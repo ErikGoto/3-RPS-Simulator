@@ -1,4 +1,5 @@
 # 🚀 3 RPS - Simulator
+Erik Y. Goto, 2025
 
 Projeto feito como trabalho de conclusão de curso da Engenharia de Controle e Automação
 Construção de uma plataforma paralela com 3 graus de liberdade para simular as acelerações longitudinais e laterais de um carro simulado no Assetto Corsa.
